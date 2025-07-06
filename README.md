@@ -1,4 +1,4 @@
-# MockitoTest Project
+## MockitoTest Project
 This is a personal project to **learn, experiment, and master testing concepts** using **Mockito**, **JUnit 5**, and **Spring Boot**.
 
 ## Goal
