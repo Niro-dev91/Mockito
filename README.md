@@ -13,4 +13,5 @@ Build a clear understanding of:
 ## How to Run Tests
 Make sure you have **Maven** and **Java 17+** installed.
 Run all tests with:
-bash :  mvn clean test
+```bash
+  mvn clean test
