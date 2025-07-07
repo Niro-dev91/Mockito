@@ -14,4 +14,4 @@ Build a clear understanding of:
 Make sure you have **Maven** and **Java 17+** installed.
 Run all tests with:
 ```bash
-  mvn clean test
+  mvnd clean test
